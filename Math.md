@@ -1,6 +1,6 @@
 <h1>Learning to use Math in Bash<h1>
 
-
+[Udemy Course](https://www.udemy.com/course/linux-bash-scripting-essentials) 
 
 <h2>Description</h2>
 This lesson is about how to use Math in Bash.
